@@ -1,0 +1,17 @@
+.Sidebar {
+    position: fixed;
+    height: 100%;
+    width: 150px;
+    top: 30%;
+    background-color: #f8ffff;
+}
+
+.Sidebar ul li {
+    list-style: none;
+    border: 1px solid grey;
+    padding: 15px;
+}
+
+.Sidebar ul li a {
+    text-decoration: none;
+}
